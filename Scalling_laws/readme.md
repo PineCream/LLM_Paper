@@ -1,5 +1,7 @@
 # Scaling Law in Large Neural Networks
 
+原文链接：https://arxiv.org/abs/2001.08361
+
 文章介绍了大模型训练过程中的 scaling laws(缩放定律），通过实验验证了模型的损失随着模型大小（非嵌入层参数量），数据量大小，计算资源的变化的幂律关系
 
 ## 文章主要结论
